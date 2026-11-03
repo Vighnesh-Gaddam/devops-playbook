@@ -3,7 +3,7 @@
 **60-Day Learning Roadmap | Theory + Practical + Interview Preparation**
 
 > Use this as a topic checklist. Mark each item as you study it, practise it, and revise it.
-
+> [YT Video Link](https://youtu.be/eew2ePnl5JI)
 ---
 
 # 60-Day Study Timeline
